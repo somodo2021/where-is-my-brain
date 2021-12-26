@@ -3,3 +3,4 @@ watching
 listining
 learning
 memorizing
+initial
